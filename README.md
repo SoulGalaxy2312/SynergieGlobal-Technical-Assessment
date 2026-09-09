@@ -1,0 +1,1 @@
+# SynergieGlobal-Technical-Assessment
