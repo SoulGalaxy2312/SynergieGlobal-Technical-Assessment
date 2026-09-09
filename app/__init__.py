@@ -1,0 +1,1 @@
+# Bright Path scheduling tool - conflict-aware booking
