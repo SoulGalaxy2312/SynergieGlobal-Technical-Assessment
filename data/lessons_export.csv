@@ -1,0 +1,35 @@
+lesson_id,date,start_time,duration_min,student,tutor_id,room,status,cancelled_at,note
+L001,2026-03-03,09:00,60,Le Minh Chau,T1,R1,booked,,
+L002,2026-03-03,09:00,60,Tran Bao Long,T2,R2,booked,,
+L003,2026-03-03,10:30,90,Nguyen Thi Ha,T1,R1,booked,,
+L004,2026-03-03,10:30,60,Do Van Kien,T3,R3,booked,,
+L005,2026-03-03,14:00,60,Vu Ha My,T2,R2,cancelled,2026-03-03T08:15:00+07:00,family cancelled
+L006,2026-03-03,15:30,90,Bui An Nhien,T1,R1,booked,,
+L007,2026-03-04,09:00,60,Le Minh Chau,T3,R3,booked,,
+L008,2026-03-04,09:00,60,Le Minh Chau,T2,R2,booked,,added by phone; family confirmed
+L009,2026-03-04,11:00,90,Tran Bao Long,T1,R1,booked,,exam pair - half price
+L010,2026-03-04,11:00,90,Nguyen Thi Ha,T1,R1,booked,,exam pair - half price
+L011,2026-03-04,14:00,60,Do Van Kien,T3,R3,booked,,
+L012,2026-03-04,16:00,60,Vu Ha My,T2,R2,booked,,
+L013,2026-03-05,09:00,60,Bui An Nhien,T1,R1,booked,,
+L014,2026-03-05,10:30,90,Le Minh Chau,T3,R3,booked,,
+L015,2026-03-05,13:00,60,Tran Bao Long,T2,R2,no_show,,
+L016,2026-03-05,14:30,90,Nguyen Thi Ha,T1,R1,booked,,
+L017,2026-03-05,16:00,60,Do Van Kien,T3,R3,cancelled,2026-03-05T14:40:00+07:00,tutor sick
+L018,2026-03-06,09:00,60,Vu Ha My,T1,R1,booked,,
+L019,2026-03-06,09:00,60,Le Minh Chau,T2,R2,booked,,
+L020,2026-03-06,10:30,90,Bui An Nhien,T3,R3,booked,,
+L021,2026-03-06,11:30,60,Tran Bao Long,T1,R1,booked,,
+L022,2026-03-06,13:00,60,Tran Bao Long,T1,R1,booked,,
+L023,2026-03-06,14:30,60,Nguyen Thi Ha,T2,R2,booked,,
+L024,2026-03-06,16:00,60,Do Van Kien,T1,R1,booked,,
+L025,2026-03-06,17:30,60,Vu Ha My,T1,R1,booked,,
+L026,2026-03-06,19:00,60,Le Minh Chau,T1,R1,booked,,
+L027,2026-03-06,20:30,60,Bui An Nhien,T1,R1,booked,,
+L028,2026-03-07,09:00,90,Tran Bao Long,T3,R3,booked,,
+L029,2026-03-07,11:00,60,Nguyen Thi Ha,T2,R2,booked,,
+L030,2026-03-07,15:00,60,Bui An Nhien,T1,R1,booked,,
+L031,2026-03-08,10:00,60,Do Van Kien,T1,R1,booked,,
+L032,2026-03-09,10:00,60,Vu Ha My,T3,R3,booked,,moved from Sunday at the family's request
+L033,2026-03-10,09:00,60,Le Minh Chau,T1,R1,booked,,
+L034,2026-03-10,09:00,60,Tran Bao Long,T1,R2,booked,,
